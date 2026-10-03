@@ -1,0 +1,370 @@
+# 华为云文档
+
+> 本文件提供华为云各产品文档的结构化访问入口，帮助大语言模型快速定位产品文档。
+
+## 人工智能
+
+- [华为云码道CodeArts代码智能体](https://support.huaweicloud.com/codeartsagent/llms.txt): 深入理解项目上下文的智能编码平台
+- [果办OfficeAce](https://support.huaweicloud.com/officeace/llms.txt): 你身边的AI办公工作台
+- [智果（AgentArts）智能体平台](https://support.huaweicloud.com/agentarts/llms.txt): 一站式企业级智能体平台
+- [MaaS模型即服务](https://support.huaweicloud.com/maas/llms.txt): 企业级大模型服务平台
+- [魔坊（ModelArts）模型训推平台](https://support.huaweicloud.com/modelarts/llms.txt): 面向AI开发者的一站式开发平台
+- [盘古大模型 PanguLargeModels](https://support.huaweicloud.com/pangulm/llms.txt): 打造行业大模型，重塑千行百业
+- [对话机器人服务 CBS](https://support.huaweicloud.com/cbs/llms.txt): 提供智能对话机器人和数字人功能
+- [文字识别 OCR](https://support.huaweicloud.com/ocr/llms.txt): 将图片中的文字识别成可编辑的文本
+- [语音交互服务 SIS](https://support.huaweicloud.com/sis/llms.txt): 提供语音识别、合成功能
+- [华为HiLens](https://support.huaweicloud.com/hilens/llms.txt): 端云协同AI应用开发平台
+- [图引擎服务 GES](https://support.huaweicloud.com/ges/llms.txt): 针对图结构数据，进行查询分析
+- [人脸识别服务 FRS](https://support.huaweicloud.com/face/llms.txt): 用于身份验证、电子考勤、客流分析等场景
+- [人证核身服务 IVS](https://support.huaweicloud.com/ivs/llms.txt): 实现对身份真实性的精准核验
+- [内容审核 Moderation](https://support.huaweicloud.com/moderation/llms.txt): 提供内容检测功能
+- [视频智能分析服务 VIAS](https://support.huaweicloud.com/vias/llms.txt): 集成视频接入和AI分析的一体化平台
+- [自动驾驶云服务 Octopus](https://support.huaweicloud.com/octopus/llms.txt): 自动驾驶端到端开发工具链
+- [AI科学计算服务](https://support.huaweicloud.com/ai4sservice/llms.txt): 将人工智能技术与科学研究相结合的创新平台  
+- [图像识别 Image](https://support.huaweicloud.com/image/llms.txt): 准确识别图像中的视觉内容
+- [图像搜索 ImageSearch](https://support.huaweicloud.com/imagesearch/llms.txt): 从图库中搜索相同或相似的图片
+- [城市智能体](https://support.huaweicloud.com/icitys/llms.txt): 城市行业数智化转型升级解决方案
+- [盘古Bot](https://support.huaweicloud.com/pangubot/llms.txt): 快速构建开箱即用的企业级大模型对话机器人
+- [具身智能开发平台 CloudRobo](https://support.huaweicloud.com/cloudrobo/llms.txt): 全流程具身智能开发平台
+
+## 计算
+
+- [计算服务选型](https://support.huaweicloud.com/compute/llms.txt): 为您推荐匹配的云服务器与计算资源
+- [弹性云服务器 ECS](https://support.huaweicloud.com/ecs/llms.txt): 可随时自动获取、弹性伸缩的云服务器
+- [Flexus云服务](https://support.huaweicloud.com/flexus/llms.txt): 新一代开箱即用、体验跃级的云服务系列
+- [裸金属服务器 BMS](https://support.huaweicloud.com/bms/llms.txt): 高性能、高安全的云上物理服务器
+- [云手机服务器 CPH](https://support.huaweicloud.com/cph/llms.txt): 具有虚拟手机功能的云服务器
+- [专属主机 DeH](https://support.huaweicloud.com/deh/llms.txt): 专属物理主机创建的云服务器
+- [弹性伸缩 AS](https://support.huaweicloud.com/as/llms.txt): 根据预设策略自动调整计算资源的服务
+- [镜像服务 IMS](https://support.huaweicloud.com/ims/llms.txt): 提供完善的镜像管理能力
+- [函数工作流 FunctionGraph](https://support.huaweicloud.com/functiongraph/llms.txt): 自动运行代码，无需配置或管理服务器
+- [Huawei Cloud EulerOS](https://support.huaweicloud.com/hce/llms.txt): 充分发挥华为云优势的操作系统
+- [云化数据中心 CloudDC](https://support.huaweicloud.com/clouddc/llms.txt): 像使用云服务一样管理您的自有资产
+- [云耀云服务器（旧版）](https://support.huaweicloud.com/hecs/llms.txt): 新一代开箱即用、体验跃级的云服务系列
+- [高性能计算 HPC](https://support.huaweicloud.com/highperformance/llms.txt): 以云服务形式提供高性能计算资源
+- [Flexus应用服务器L实例](https://support.huaweicloud.com/flexusl/llms.txt): Flexus应用服务器L实例是新一代开箱即用、面向中小企业和开发者打造的全新轻量级应用服务器。Flexus应用服务器L实例提供丰富严选的应用镜像，实现应用一键部署，适用于网站搭建、开发测试环境、企业应用、网站分析、音视频服务等中低负载场景。
+- [Flexus云服务器X实例](https://support.huaweicloud.com/flexusx/llms.txt): Flexus云服务器X实例是新一代面向中小企业和开发者打造的柔性算力云服务器，可智能感知业务负载，适用于电商直播、企业建站、开发测试环境、游戏服务器、音视频服务等中低负载场景。
+- [Flexus云数据库RDS](https://support.huaweicloud.com/flexusrds/llms.txt): Flexus云数据库RDS是华为云通过技术创新，为初创企业及个人学习等客户提供的轻量级数据库服务。便于客户快速入手使用数据库，助力客户聚焦业务，加快业务快速发展，减少非核心精力投入。
+- [Flexus云容器实例](https://support.huaweicloud.com/flexuscci/llms.txt): Flexus云容器实例提供了一种在云上运行容器化应用程序的简便方法。
+- [Flexus企业搜索服务](https://support.huaweicloud.com/flexussearchservice/llms.txt)
+- [Flexus数字人](https://support.huaweicloud.com/flexusvirtualavatar/llms.txt): Flexus Search Service
+- [Flexus智能数据洞察](https://support.huaweicloud.com/flexusdataartsinsight/llms.txt)
+- [Flexus云桌面](https://support.huaweicloud.com/flexusworkspace/llms.txt)
+- [Flexus云会议](https://support.huaweicloud.com/flexusmeeting/llms.txt)
+- [Flexus对象存储](https://support.huaweicloud.com/flexusobs/llms.txt)
+
+## 存储
+
+- [存储服务选型](https://support.huaweicloud.com/storage/llms.txt): 为您推荐匹配的云存储服务
+- [对象存储服务 OBS](https://support.huaweicloud.com/obs/llms.txt): 稳定、安全、高效、易用的云存储服务
+- [云硬盘 EVS](https://support.huaweicloud.com/evs/llms.txt): 为计算服务提供持久性块存储的服务
+- [云备份 CBR](https://support.huaweicloud.com/cbr/llms.txt): 为云服务器、云硬盘等提供备份服务
+- [键值存储服务 KVS](https://support.huaweicloud.com/kvs/llms.txt): Serverless KV存储服务
+- [数据工坊 DWR](https://support.huaweicloud.com/dwr/llms.txt): 开放的近数据处理服务
+- [弹性文件服务 SFS](https://support.huaweicloud.com/sfs/llms.txt): 为计算实例提供完全托管的NAS文件存储
+- [高性能弹性文件服务 SFS Turbo](https://support.huaweicloud.com/sfsturbo/llms.txt): 为计算实例提供完全托管的高性能文件存储
+- [专属分布式存储服务 DSS](https://support.huaweicloud.com/dss/llms.txt): 提供独享的物理存储资源
+- [业务恢复服务 BRS](https://support.huaweicloud.com/sdrs/llms.txt): 为ECS提供跨可用区RPO=0的容灾保护服务
+- [云服务器备份 CSBS](https://support.huaweicloud.com/csbs/llms.txt): 为所有云硬盘创建一致性在线备份
+- [弹性内存存储 EMS](https://support.huaweicloud.com/ems/llms.txt): 高带宽、低时延的内存存储服务
+- [云硬盘备份 VBS](https://support.huaweicloud.com/vbs/llms.txt): 为云硬盘创建在线备份，无需关机/重启
+- [数据快递服务 DES](https://support.huaweicloud.com/des/llms.txt): 为数据上云提供安全、快速的传输服务
+- [专属企业存储服务](https://support.huaweicloud.com/dess/llms.txt): 专属企业存储服务（Dedicated Enterprise Storage Service，简称DESS），是基于华为企业存储构建的专属存储服务，面向Oracle RAC、SAP HANA TDI等企业关键应用场景，可以提供与企业私有云环境一致的性能和可靠性，简化企业级用户在公有云上部署关键应用的难度
+
+## 网络
+
+- [ 网络服务选型](https://support.huaweicloud.com/networking/llms.txt): 为您推荐匹配的云网络服务
+- [虚拟私有云 VPC](https://support.huaweicloud.com/vpc/llms.txt): 隔离的、私密的虚拟网络环境
+- [弹性公网IP EIP](https://support.huaweicloud.com/eip/llms.txt): 提供独立的公网IP资源服务
+- [弹性负载均衡 ELB](https://support.huaweicloud.com/elb/llms.txt): 将流量自动分发到多台云服务器
+- [云专线 DC](https://support.huaweicloud.com/dc/llms.txt): 搭建本地数据中心与VPC间的专属连接通道
+- [虚拟专用网络 VPN](https://support.huaweicloud.com/vpn/llms.txt): 数据中心与华为云的IPsec加密连接通道
+- [企业交换机 ESW](https://support.huaweicloud.com/esw/llms.txt): 云上与云下的大二层连接通道
+- [云连接 CC](https://support.huaweicloud.com/cc/llms.txt): 提供多Region VPC互通的混合云组网服务
+- [NAT网关 NAT](https://support.huaweicloud.com/natgateway/llms.txt): 提供网络地址转换服务
+- [VPC终端节点 VPCEP](https://support.huaweicloud.com/vpcep/llms.txt): 提供VPC之间的私密连接通道
+- [企业路由器 ER](https://support.huaweicloud.com/er/llms.txt): 提供高可靠的集中路由管理能力
+- [全球加速 GA](https://support.huaweicloud.com/ga/llms.txt): 提供SLA稳定的加速传输
+- [云解析服务 DNS](https://support.huaweicloud.com/dns/llms.txt): 提供高可用，高扩展的DNS服务和管理服务
+
+## 安全
+
+- [安全服务选型](https://support.huaweicloud.com/security/llms.txt): 为您推荐匹配的数据加密服务
+- [Web应用防火墙 WAF](https://support.huaweicloud.com/waf/llms.txt): 识别恶意请求特征和防御未知威胁
+- [企业主机安全 HSS](https://support.huaweicloud.com/hss2.0/llms.txt): 服务器贴身安全管家
+- [云防火墙 CFW](https://support.huaweicloud.com/cfw/llms.txt): 网络流量管控与入侵安全防护
+- [DDoS防护 AAD](https://support.huaweicloud.com/aad/llms.txt): 配置高防IP，将攻击流量引流到高防IP
+- [安全云脑 SecMaster](https://support.huaweicloud.com/secmaster/llms.txt): 云原生的新一代智能安全运营中心
+- [密码安全中心 DEW](https://support.huaweicloud.com/dew/llms.txt): 云上数据加密和密钥托管服务
+- [数据安全中心 DSC](https://support.huaweicloud.com/dsc/llms.txt): 云原生数据安全治理平台
+- [云堡垒机 CBH](https://support.huaweicloud.com/cbh/llms.txt): 主机管理、权限控制、运维审计
+- [数据库安全服务 DBSS](https://support.huaweicloud.com/dbss/llms.txt): 数据库审计，SQL注入攻击检测
+- [云证书与管理服务 CCM](https://support.huaweicloud.com/ccm/llms.txt): SSL证书和私有证书管理
+- [边缘安全 EdgeSec](https://support.huaweicloud.com/edgesec/llms.txt): 保护边缘应用安全，提升安全加速体验
+- [交换数据空间 EDS](https://support.huaweicloud.com/eds/llms.txt): 主权可控的数据安全交换服务
+- [可信智能计算服务 TICS](https://support.huaweicloud.com/tics/llms.txt): 软硬件协同的多方隐私计算服务
+- [区块链服务 BCS](https://support.huaweicloud.com/bcs/llms.txt): 高性能、高安全的区块链技术平台服务
+- [安全技术与应用](https://support.huaweicloud.com/securityInfo/llms.txt): 租户安全排查与加固建议
+- [系列2](https://support.huaweicloud.com/cbh-s2/llms.txt): 云堡垒机（Cloud Bastion Host，CBH）是华为云的一款4A统一安全管控平台，为企业提供集单点登录、统一资产管理、多终端访问协议、文件传输、会话协同等功能于一体的运维管理服务，提供了系列1和系列2两个系列供您选用。
+
+## 容器与中间件
+
+- [容器与中间件服务选型](https://support.huaweicloud.com/container/llms.txt): 为您推荐匹配的容器与编排服务
+- [华为云UCS](https://support.huaweicloud.com/ucs/llms.txt): 提供无处不在的云原生服务
+- [Autopilot集群](https://support.huaweicloud.com/cce-autopilot/llms.txt): CCE Autopilot集群是云容器引擎服务推出的Serverless版集群，为您提供免运维的容器服务，并提供经过优化的Kubernetes兼容能力。在创建CCE Autopilot集群后，您无需购买节点即可部署应用，同时也无需对节点的部署、管理和安全性进行维护，只需要关注应用业务逻辑的实现，可以大幅降低您的运维成本，提高应用程序的可靠性和可扩展性。
+- [云容器引擎 CCE](https://support.huaweicloud.com/cce/llms.txt): 提供高可靠的企业级容器应用管理服务
+- [云容器实例 CCI](https://support.huaweicloud.com/cci/llms.txt): 提供敏捷安全的Serverless容器服务
+- [容器镜像服务 SWR](https://support.huaweicloud.com/swr/llms.txt): 一种支持容器镜像全生命周期管理的服务
+- [应用服务网格 ASM](https://support.huaweicloud.com/asm/llms.txt): 让应用治理智能化，可视化
+- [云原生服务中心 OSC](https://support.huaweicloud.com/osc/llms.txt): 云原生服务的生命周期管理平台
+- [智能边缘平台 IEF](https://support.huaweicloud.com/ief/llms.txt): 边云协同操作系统，提供边缘应用托管
+- [微服务引擎 CSE](https://support.huaweicloud.com/cse/llms.txt): 微服务应用快速注册发现、配置管理及治理
+- [分布式消息服务Kafka版](https://support.huaweicloud.com/kafka/llms.txt): 高吞吐、高可用的消息中间件服务
+- [分布式消息服务RabbitMQ版](https://support.huaweicloud.com/rabbitmq/llms.txt): 支持AMQP协议，兼容RabbitMQ生态
+- [分布式消息服务RocketMQ版](https://support.huaweicloud.com/hrm/llms.txt): 低延迟、高可靠，兼容开源RocketMQ
+- [API网关 APIG](https://support.huaweicloud.com/apig/llms.txt): 构建、管理和部署任意规模的API服务
+- [多活高可用服务 MAS](https://support.huaweicloud.com/mas/llms.txt): 提供端到端业务故障切换及容灾演练能力
+- [事件网格 EG](https://support.huaweicloud.com/eg/llms.txt): 兼容CloudEvents的事件驱动架构服务
+
+## 数据库
+
+- [数据库服务选型](https://support.huaweicloud.com/databases/llms.txt): 为您推荐匹配的云数据库服务
+- [云数据库 TaurusDB](https://support.huaweicloud.com/taurusdb/llms.txt): 新一代完全兼容MySQL的企业级数据库
+- [云数据库 RDS](https://support.huaweicloud.com/rds/llms.txt): 稳定可靠、安全运行的云数据库服务
+- [云数据库 GaussDB](https://support.huaweicloud.com/gaussdb/llms.txt): 新一代企业级分布式关系型数据库产品
+- [云数据库 GeminiDB](https://support.huaweicloud.com/nosql/llms.txt): 云原生多模NoSQL，兼容Redis®/Influx
+- [文档数据库服务 DDS](https://support.huaweicloud.com/dds/llms.txt): 支持集群和副本集部署，弹性伸缩
+- [分布式缓存服务 DCS](https://support.huaweicloud.com/dcs/llms.txt): 兼容Redis®的高速内存数据处理引擎
+- [数据复制服务 DRS](https://support.huaweicloud.com/drs/llms.txt): 业务不停机中完成数据库迁移上云
+- [数据管理服务 DAS](https://support.huaweicloud.com/das/llms.txt): 数据库管理专家
+- [数据库和应用迁移 UGO](https://support.huaweicloud.com/ugo/llms.txt): 异构数据库结构迁移和应用迁移的专业工具
+- [分布式数据库中间件 DDM](https://support.huaweicloud.com/ddm/llms.txt): 突破容量和性能瓶颈，支持数据高并发访问
+- [云数据库 TaurusDB标准版](https://support.huaweicloud.com/taurusdb-std/llms.txt): TaurusDB标准版是一种基于云计算平台的稳定可靠、弹性伸缩、便捷管理的在线数据库。采用MySQL经典主备架构，并基于MySQL内核进行深度自研，在100%兼容MySQL的同时提供了更多更强的内核能力。
+- [云数据库 RDS for MySQL](https://support.huaweicloud.com/rds-mysql/llms.txt): 云数据库 RDS for MySQL 100%兼容原生MySQL，拥有稳定可靠，高性能，智能运维，高等级安全保障，即开即用，弹性伸缩等特点。
+- [云数据库 RDS for PostgreSQL](https://support.huaweicloud.com/rds-pg/llms.txt): 云数据库 RDS for PostgreSQL 100%兼容原生PostgreSQL，提供安全可靠、易用稳定、管理便捷的云数据库服务。
+- [云数据库 RDS for SQL Server](https://support.huaweicloud.com/rds-mssql/llms.txt): 云数据库 RDS for SQL Server具有稳定可靠、安全运行、弹性伸缩、轻松管理和经济实用等特点。拥有高可用架构、数据安全保障和故障秒级恢复功能，提供了灵活的备份方案。
+- [云数据库 RDS for MariaDB](https://support.huaweicloud.com/rds-mariadb/llms.txt): 与MySQL高度兼容，是一个功能强大、性能优越、安全可靠的数据库管理系统，适用于各种规模的应用程序。
+- [云数据库 TaurusDB for PostgreSQL](https://support.huaweicloud.com/taurusdb-pg/llms.txt)
+
+## 大数据
+
+- [大数据服务选型](https://support.huaweicloud.com/analytics/llms.txt): 为您推荐匹配的大数据服务
+- [智能数据湖 AI DataLake](https://support.huaweicloud.com/aidatalake/llms.txt): 企业级多模态智能数据分析与管理平台
+- [MapReduce服务 MRS](https://support.huaweicloud.com/mrs/llms.txt): 企业级大数据集群云服务
+- [数据湖探索 DLI](https://support.huaweicloud.com/dli/llms.txt): 流处理、批处理的融合处理分析服务
+- [数据治理中心 DataArts Studio](https://support.huaweicloud.com/dataartsstudio/llms.txt): 一站式数据开发与治理平台
+- [数据仓库服务 DWS](https://support.huaweicloud.com/dws/llms.txt): 极致性能、稳定、按需扩展的数据仓库
+- [云搜索服务 CSS](https://support.huaweicloud.com/css/llms.txt): 提供多条件检索与分析能力
+- [表格存储服务 CloudTable](https://support.huaweicloud.com/cloudtable/llms.txt): 企业级托管型云数仓产品
+- [智能数据洞察 DataArts Insight](https://support.huaweicloud.com/dataartsinsight/llms.txt): 新一代BI服务，支撑业务实时高效决策
+- [湖仓构建 LakeFormation](https://support.huaweicloud.com/lakeformation/llms.txt): 高效搭建数智融合一体化解决方案
+- [数据接入服务 DIS](https://support.huaweicloud.com/dis/llms.txt): 实时数据接入、处理、转储服务
+- [数据可视化 DLV](https://support.huaweicloud.com/dlv/llms.txt): 提供可视化组件定制和应用数据大屏
+- [企业搜索服务 KooSearch](https://support.huaweicloud.com/koosearch/llms.txt): 企业搜索KooSearch是基于华为云的云搜索服务搭建的一站式智能搜索解决方案，帮助企业聚焦业务场景和应用开发，场景服务化、技术简单化、低门槛化，满足开发者基于业务场景的二次开发。
+
+## CDN与边缘计算
+
+- [内容分发网络 CDN](https://support.huaweicloud.com/cdn/llms.txt): 就近获得所需的内容，改善网络拥挤的状况
+- [智能边缘云 IEC](https://support.huaweicloud.com/iec/llms.txt): 部署距用户更近的位置，提供低时延体验
+- [CloudPond云服务](https://support.huaweicloud.com/cloudpond/llms.txt): 将云基础设施部署到机房用于边缘计算
+
+## 媒体服务
+
+- [视频直播 Live](https://support.huaweicloud.com/live/llms.txt): 端到端视频直播解决方案
+- [视频点播 VOD](https://support.huaweicloud.com/vod/llms.txt): 视频上传、处理、加速和播放
+- [媒体处理 MPC](https://support.huaweicloud.com/mpc/llms.txt): 经济、高效、弹性的音视频转码和处理
+- [行业视频管理服务 IVM](https://support.huaweicloud.com/ivm/llms.txt): 面向机器视觉设备提供统一的设备管理服务
+- [数字内容生产线 MetaStudio](https://support.huaweicloud.com/metastudio/llms.txt): 提供一站式数字内容生产解决方案
+- [实时音视频 SparkRTC](https://support.huaweicloud.com/rtc/llms.txt): 低时延、高并发、安全可靠的音视频通话服务
+
+## 开发工具
+
+- [华为云码道 CodeArts](https://support.huaweicloud.com/devcloud/llms.txt): 内置华为实践的一站式软件开发平台
+- [需求管理 CodeArts Req](https://support.huaweicloud.com/projectman/llms.txt): 为研发团队提供高效需求管理服务
+- [代码托管 CodeArts Repo](https://support.huaweicloud.com/codeartsrepo/llms.txt): 提供基于Git的在线代码托管服务
+- [流水线 CodeArts Pipeline](https://support.huaweicloud.com/pipeline/llms.txt): 可视化、可定制的持续交付发布软件
+- [代码检查 CodeArts Check](https://support.huaweicloud.com/codecheck/llms.txt): 基于云端实现代码质量管理的服务
+- [编译构建 CodeArts Build](https://support.huaweicloud.com/codeci/llms.txt): 提供开箱即用、快速的构建能力
+- [部署 CodeArts Deploy](https://support.huaweicloud.com/deployman/llms.txt): 提供可视化、一键式部署服务
+- [测试计划 CodeArts TestPlan](https://support.huaweicloud.com/testman/llms.txt): 面向开发者提供的一站式测试管理平台
+- [制品仓库 CodeArts Artifact](https://support.huaweicloud.com/cloudartifact/llms.txt): 提供多类型、安全可靠的软件制品仓库
+- [CodeArts IDE Online](https://support.huaweicloud.com/cloudide/llms.txt): 面向云原生的轻量级WebIDE
+- [开源镜像站 Mirrors](https://support.huaweicloud.com/mirrors/llms.txt): 开源组件、操作系统及DevOps工具镜像站
+- [CodeArts IDE](https://support.huaweicloud.com/codeartside/llms.txt): 智能化集成开发环境
+- [漏洞管理服务 CodeArts Inspector](https://support.huaweicloud.com/vss/llms.txt): 满足合规要求，让安全弱点无所遁形
+- [开源治理服务 CodeArts Governance](https://support.huaweicloud.com/devsecurity/llms.txt): 识别开源软件风险，高效安全的使用开源
+- [应用管理与运维平台 ServiceStage](https://support.huaweicloud.com/servicestage/llms.txt): 面向企业的一站式PaaS平台服务
+- [云应用引擎 CAE](https://support.huaweicloud.com/cae/llms.txt): 面向应用的Serverless极简托管引擎
+- [性能测试 CodeArts PerfTest](https://support.huaweicloud.com/cpts/llms.txt): 为应用的接口和全链路提供性能测试服务
+- [Astro工作流 AstroFlow](https://support.huaweicloud.com/astroflow/llms.txt): 一站式自动化工作流应用构建工具
+- [华为云Astro轻应用](https://support.huaweicloud.com/astrozero/llms.txt): 快速搭建低代码轻应用
+- [Astro企业应用 AstroPro](https://support.huaweicloud.com/astropro/llms.txt): 快速构建企业核心业务应用
+- [华为云命令行工具服务 KooCLI](https://support.huaweicloud.com/hcli/llms.txt): 为华为云服务API提供的命令行管理工具
+- [SDK开发指南](https://support.huaweicloud.com/sdk/llms.txt): 获取和使用云服务提供的SDK
+- [API签名指南](https://support.huaweicloud.com/apisign/llms.txt): 使用签名认证调用通过网关开放的API
+- [开发者空间](https://support.huaweicloud.com/hdspace/llms.txt): 提供开发者开发资源、工具权益及知识服务
+- [华为云Astro大屏应用](https://support.huaweicloud.com/astrocanvas/llms.txt): 快速搭建专业的数据可视化大屏应用
+- [效能洞察 CodeArts Board](https://support.huaweicloud.com/codeartsboard/llms.txt): 为企业管理者、项目经理、团队Leader、开发者提供面向DevSecOps领域端到端的研发效能度量能力
+- [软件建模  CodeArts Modeling](https://support.huaweicloud.com/codeartsmodeling/llms.txt): UML、SysML可视化建模
+- [联接 CodeArtsLink](https://support.huaweicloud.com/codeartslink/llms.txt): 一站打通与业界生态研发工具或应用
+
+## 企业应用
+
+- [企业应用服务选型](https://support.huaweicloud.com/applications/llms.txt): 为您推荐匹配的工业软件服务
+- [华为云会议 Meeting](https://support.huaweicloud.com/meeting/llms.txt): 提供全场景端云协同视频会议解决方案
+- [华为云WeLink](https://support.huaweicloud.com/workplace/llms.txt): 安全、智能、数字化协同办公平台
+- [云桌面 Workspace](https://support.huaweicloud.com/workspace/llms.txt): 安全高效、即开即用的云上虚拟桌面服务
+- [解决方案工作台](https://support.huaweicloud.com/haydncsf/llms.txt): 解决方案设计、验证的全生命周期管理平台
+- [政企自服务管理 ESM](https://support.huaweicloud.com/esm/llms.txt): 提升HCSO客户自主运营管理能力
+- [应用与数据集成平台 ROMA Connect](https://support.huaweicloud.com/roma/llms.txt): 无缝联接应用、消息、数据、API、设备
+- [工业数字模型驱动引擎](https://support.huaweicloud.com/idme/llms.txt): 赋能工业软件SaaS化数据模型驱动引擎
+- [硬件开发工具链平台云服务](https://support.huaweicloud.com/craftartsipdcenter/llms.txt): 打造硬件开发工具链
+- [工业数据转换引擎云服务](https://support.huaweicloud.com/idee/llms.txt): 赋能异构工业软件高效数据转换
+- [ROMA资产中心 ROMA Exchange](https://support.huaweicloud.com/romaexchange/llms.txt): 企业数字资产管理和运营的统一平台
+- [应用平台 AppStage](https://support.huaweicloud.com/appstage/llms.txt): 应用全生命周期管理
+- [开天企业工作台 MSSE](https://support.huaweicloud.com/msse/llms.txt): 企业一站式数字化工作台
+- [开天集成工作台 MSSI](https://support.huaweicloud.com/mssi/llms.txt): 统一的行业资产智能协作平台
+- [云消息服务 KooMessage](https://support.huaweicloud.com/koomessage/llms.txt): 一站式富媒体消息服务
+- [云地图服务 KooMap](https://support.huaweicloud.com/koomap/llms.txt): 使能数字孪生的云地图服务
+- [云手机服务 KooPhone  ](https://support.huaweicloud.com/koophone/llms.txt): 优体验、高安全的政企云手机服务
+- [组织成员账号 OrgID](https://support.huaweicloud.com/orgid/llms.txt): 为企业提供统一账号、应用授权管理
+- [云空间服务 KooDrive](https://support.huaweicloud.com/koodrive/llms.txt): 数字内容中枢、内容协作更高效
+- [隐私保护通话 PrivateNumber](https://support.huaweicloud.com/PrivateNumber/llms.txt): 不增加SIM卡，隐藏号码，保护个人隐私
+- [语音通话 VoiceCall](https://support.huaweicloud.com/voice/llms.txt): 携手全球运营商提供语音服务
+- [消息&短信 MSGSMS](https://support.huaweicloud.com/msgsms/llms.txt): 携手全球运营商和渠道提供短信服务
+- [域名注册服务 Domains](https://support.huaweicloud.com/domain/llms.txt): 提供域名购买，转入，续费，管理的服务
+- [企业门户 EWP](https://support.huaweicloud.com/cloudsite/llms.txt): 无需代码，快速拖拽搭建网站的服务
+- [ICP备案](https://support.huaweicloud.com/icp/llms.txt): 提供免费备案服务，助力业务合规上云
+- [商标注册](https://support.huaweicloud.com/trademark/llms.txt): 快速递交，智能申报的商标注册服务
+- [华为乾坤](https://support.huaweicloud.com/qiankuncs/llms.txt): 华为乾坤云服务是华为面向企业推出的数字化网络云服务，包括云管理网络、网络安全、网络连接等一站式云服务产品，助力企业网络更简单、更安全
+
+## 运维管理与迁移
+
+- [运维管理与迁移服务选型](https://support.huaweicloud.com/management/llms.txt): 为您推荐匹配的运维管理服务
+- [应用身份管理服务 OneAccess](https://support.huaweicloud.com/oneaccess/llms.txt): 具备集中式的身份管理、认证和授权能力
+- [统一身份认证服务 IAM](https://support.huaweicloud.com/iam/llms.txt): 提供身份认证和权限管理功能
+- [消息通知服务 SMN](https://support.huaweicloud.com/smn/llms.txt): 依据用户的需求主动推送通知消息
+- [统一身份认证服务（新版）](https://support.huaweicloud.com/iam5/llms.txt): 统一身份认证（Identity and Access Management，简称IAM）是华为云提供权限管理的基础服务，可以帮助您安全地控制华为云服务和资源的访问权限。
+- [云监控服务 CES](https://support.huaweicloud.com/ces/llms.txt): 提供云上及本地资源的立体化监控平台
+- [应用运维管理 AOM](https://support.huaweicloud.com/aom/llms.txt): 提供立体运维平台，实时监控应用
+- [应用性能管理 APM](https://support.huaweicloud.com/apm/llms.txt): 实时监控并管理企业应用性能和故障
+- [云日志服务 LTS](https://support.huaweicloud.com/lts/llms.txt): 提供日志收集、实时查询、存储等功能
+- [云审计服务 CTS](https://support.huaweicloud.com/cts/llms.txt): 为您提供云账户下资源的操作记录
+- [资源访问管理 RAM](https://support.huaweicloud.com/ram/llms.txt): 提供安全的跨账号共享资源的能力
+- [组织 Organizations](https://support.huaweicloud.com/organizations/llms.txt): 提供多账号关系的管理能力
+- [IAM 身份中心](https://support.huaweicloud.com/identitycenter/llms.txt): 提供多账号统一身份管理与访问控制
+- [配置审计 Config](https://support.huaweicloud.com/rms/llms.txt): 提供全局资源配置管理，配置检测能力
+- [资源编排服务 RFS](https://support.huaweicloud.com/aos/llms.txt): 批量自动化创建云服务资源
+- [优化顾问 OA](https://support.huaweicloud.com/oa/llms.txt): 一键识别云资源潜在风险并给出优化建议
+- [云运维中心 COC](https://support.huaweicloud.com/coc/llms.txt): 提供安全、高效的一站式智能运维平台
+- [资源治理中心 RGC](https://support.huaweicloud.com/rgc/llms.txt): 搭建并治理安全可扩展的多账号环境
+- [主机迁移服务 SMS](https://support.huaweicloud.com/sms/llms.txt): 把数据中心或其他云上的主机迁移到华为云
+- [对象存储迁移服务 OMS](https://support.huaweicloud.com/oms/llms.txt): 公有云对象存储数据迁移服务
+- [云数据迁移 CDM](https://support.huaweicloud.com/cdm/llms.txt): 提供同/异构数据源之间批量数据迁移服务
+- [迁移中心 MgC](https://support.huaweicloud.com/mgc/llms.txt): 一站式迁移和现代化平台
+- [标签管理服务 TMS](https://support.huaweicloud.com/tms/llms.txt): 提供标签集中管理和资源分类功能
+- [云宝助手](https://support.huaweicloud.com/aiassist/llms.txt): 产品咨询、任务执行、获取有效建议
+- [企业管理](https://support.huaweicloud.com/em/llms.txt): 实现企业云上的人、财、物、权、业务的管理
+
+## 管理与监管
+
+
+## 开天aPaaS
+
+
+## IoT物联网
+
+- [设备接入 IoTDA](https://support.huaweicloud.com/iothub/llms.txt): 安全可靠接入海量设备
+- [IoT边缘 IoTEdge](https://support.huaweicloud.com/iotedge/llms.txt): 就近接入、数据预处理和边缘应用管理
+- [IoT行业生态工作台](https://support.huaweicloud.com/iotstage/llms.txt): 物联网解决方案一站式交付服务
+- [全球SIM联接 GSL](https://support.huaweicloud.com/oceanlink/llms.txt): 为物联网设备提供一站式SIM卡管理
+
+## 解决方案
+
+- [AI](https://support.huaweicloud.com/aislt/llms.txt): 赋能千行百业，全场景高效、安全、智能解决方案
+- [混合云灾备](https://support.huaweicloud.com/hcdr/llms.txt): 提供多云以及跨云的容灾备份能力
+
+## 开发与运维
+
+
+## 开发者工具
+
+
+## 视频
+
+
+## 安全与合规
+
+
+## 区块链
+
+- [数字资产链 DAC](https://support.huaweicloud.com/dac/llms.txt): 提供数字资产的确权、可信保存、安全交易
+- [华为云区块链引擎服务 HBS](https://support.huaweicloud.com/hbs/llms.txt): 轻松搭建、管理区块链应用
+
+## 专属云
+
+- [专属计算集群 DCC](https://support.huaweicloud.com/dcc/llms.txt): 提供资源物理隔离的专属计算资源池
+
+## 智能协作
+
+
+## 价格
+
+
+## 云化转型
+
+- [云采用框架  CAF](https://support.huaweicloud.com/caf/llms.txt): 云化转型方法论与最佳实践
+- [云架构中心](https://support.huaweicloud.com/architecture/llms.txt): 上云后关键问题的设计指导和最佳实践
+
+## 云生态
+
+- [云商店](https://support.huaweicloud.com/marketplace/llms.txt): 领先的企业应用分发与交易平台
+- [合作伙伴中心](https://support.huaweicloud.com/bpconsole/llms.txt): 一站式伙伴关系管理与作业平台
+- [华为云开发者学堂](https://support.huaweicloud.com/edu/llms.txt): 云上学习、实验、认证与培训服务
+- [华为云慧通差旅](https://support.huaweicloud.com/hctms/llms.txt): 首个基于差旅大模型的智能差旅平台
+
+## 用户服务
+
+- [账号中心](https://support.huaweicloud.com/account/llms.txt): 华为云账号的注册、实名认证、维护和注销等
+- [费用中心](https://support.huaweicloud.com/billing/llms.txt): 全方面了解您的消费信息
+- [成本中心](https://support.huaweicloud.com/cost/llms.txt): 洞察、监控、优化您的华为云成本
+- [资源中心](https://support.huaweicloud.com/support/llms.txt): 提供云服务器资源管理能力
+- [工单管理](https://support.huaweicloud.com/ticket/llms.txt): 坐席工程师为您解答云产品使用问题
+- [客户运营能力](https://support.huaweicloud.com/oce/llms.txt): 面向客户开放，支持多种交易运营能力
+- [国际站常见问题](https://support.huaweicloud.com/international/llms.txt): 华为云的子站点，面向全球客户开放
+- [支持计划](https://support.huaweicloud.com/supportplans/llms.txt): 提供高度灵活，全产品技术支持服务
+- [专业服务](https://support.huaweicloud.com/professionalservices/llms.txt): 帮助客户上好云、用好云、管好云
+- [我的凭证](https://support.huaweicloud.com/ca/llms.txt): 集中展示与管理用户的身份凭证信息
+- [华为云公共事业服务云平台](https://support.huaweicloud.com/govcloud/llms.txt): 华为云公共事业服务云平台是面向公共事业/政企类企业客户、经审批开通的华为云专区订购与运营平台
+
+## 云市场
+
+
+## 昇腾
+
+
+## 鲲鹏
+
+
+## 无分类
+
+
+## 云通信
+
+
+## 其他
+
+- [管理控制台](https://support.huaweicloud.com/consolehome/llms.txt): 提供操作和管理云服务资源的能力
+- [消息中心](https://support.huaweicloud.com/mc/llms.txt): 提供各类通知消息发送接收和管理能力
+- [产品价格详情](https://support.huaweicloud.com/pro_price/llms.txt): 云服务的价格详情与价格计算器
+- [系统权限](https://support.huaweicloud.com/permissions/llms.txt): 各云服务系统权限的合集
+- [公共问题](https://support.huaweicloud.com/iaas/llms.txt): 提供配额、区域和可用区等介绍
+- [客户关联华为云合作伙伴须知](https://support.huaweicloud.com/bp_usernotice/llms.txt): 客户关联合作伙伴时，需阅读并同意此手册
+- [宽限期保留期](https://support.huaweicloud.com/period/llms.txt): 资源到期或欠费时提供的宽限和保留时间
+
+## 容器
+
+- [云容器实例 CCI 1.0](https://support.huaweicloud.com/cci1/llms.txt): 提供敏捷安全的Serverless容器服务。
+
+## 工业软件
+

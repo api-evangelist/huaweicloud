@@ -1,0 +1,54 @@
+generated: '2026-10-03'
+method: probed
+source: pre-flight dossier (docs platform, portal detections) + CNAME chains and response headers of the hosts apis.yml names
+registry: all/0-working/vendors.yml
+areas_vocabulary:
+- documentation
+- developer-portal
+- api-gateway
+- cdn
+- hosting
+- sdk-generation
+- api-collections
+- status-page
+- support
+- community
+- identity
+- mcp-hosting
+vendors:
+- vendor: postman
+  name: Postman
+  area: api-collections
+  host: www.postman.com
+  evidence: https://www.postman.com/huaweicloud/workspace
+  signal: url:postman.com
+  confidence: high
+  kin_score:
+  - postman_collection
+- vendor: akamai
+  name: Akamai
+  area: cdn
+  host: www.huaweicloud.com
+  evidence: cname:akamaiedge.net
+  signal: cname
+  confidence: high
+  kin_score: []
+reliance:
+  areas_vendor_served:
+  - api-collections
+  - cdn
+  vendor_count: 2
+  areas_observed: 12
+  share_of_observable_areas: 0.167
+  note: areas where a third party was DETECTED serving this provider; an area absent here was either self-run or not observed, and this script
+    cannot tell those apart
+checked:
+- 'docs-platform: custom'
+- www.huaweicloud.com (Website)
+- developer.huaweicloud.com (DeveloperPortal)
+- support.huaweicloud.com (Documentation)
+- developer.huaweicloud.com (APIReference)
+- www.huaweicloud.com (GettingStarted)
+- support.huaweicloud.com (Support)
+- reg.huaweicloud.com (SignUp)
+- www.postman.com (Postman)

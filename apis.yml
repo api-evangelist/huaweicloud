@@ -1,23 +1,81 @@
 aid: huaweicloud
+
 name: Huawei Cloud
-description: 'Huawei Cloud is a company surfaced via the API Evangelist harvest backlog (source: gartner-mq)
-  and added to the network as a stub for full-pipeline profiling.'
+
+description: 'Huawei Cloud, the public cloud arm of Huawei Technologies, offers a comprehensive suite of cloud services including compute, storage, networking, AI, and big data solutions. It serves enterprises worldwide with flexible pricing, high performance, and strong security compliance, positioning itself as a major global IaaS and PaaS provider.'
+
 url: https://raw.githubusercontent.com/api-evangelist/huaweicloud/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:gartner-mq
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-03 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-03'
+
 modified: '2026-10-03'
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: Developer portal returns HTML for OpenAPI endpoints, no machine-readable spec found.
+  evidence:
+    - url: https://developer.huaweicloud.com/openapi.json
+      status: 200
+  checked: '2026-10-03'
+
 tags:
 - Company
-apis: []
+- Cloud
+- IaaS
+- PaaS
+- AI
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/huaweicloud-llms.txt
+- type: Hosts
+  url: hosts/huaweicloud-hosts.yml
+- type: Vendors
+  url: vendors/huaweicloud-vendors.yml
+- type: Newsroom
+  url: http://www.huaweicloud.com/news/1512571718813.html
+- type: DomainSecurity
+  url: security/huaweicloud-domain-security.yml
 - type: Website
   url: https://www.huaweicloud.com
+
+- type: DeveloperPortal
+  url: https://developer.huaweicloud.com/
+- type: Documentation
+  url: https://support.huaweicloud.com/
+- type: APIReference
+  url: https://developer.huaweicloud.com/intl/en-us/
+- type: GettingStarted
+  url: https://www.huaweicloud.com/intl/zh-cn/
+- type: Support
+  url: https://support.huaweicloud.com/
+- type: Pricing
+  url: https://www.huaweicloud.com/pricing/index.html
+- type: SignUp
+  url: https://reg.huaweicloud.com/registerui/public/custom/register.html?locale=zh-cn&service=https%3A%2F%2Fdeveloper.huaweicloud.com%2F
+- type: Postman
+  url: https://www.postman.com/huaweicloud/workspace
+
+apis: []
+x-enrichment:
+  date: '2026-10-03'
+  status: enriched
+  artifacts_added: 8
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

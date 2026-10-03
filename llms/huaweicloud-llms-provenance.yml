@@ -1,0 +1,6 @@
+generated: '2026-10-03'
+method: probed
+generator: harvest-llms.py
+source: https://support.huaweicloud.com/llms.txt
+bytes: 35232
+note: saved verbatim; the provider's own document

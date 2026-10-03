@@ -1,0 +1,21 @@
+generated: '2026-10-03'
+method: none
+source: https://registry.npmjs.org/-/v1/search?text=huaweicloud
+packages: []
+rejected:
+- name: '@huaweicloud/huaweicloud-sdk-ecs'
+  registry: npm
+  reason: 'registry metadata names neither the provider''s domain nor its GitHub org: official downgraded (harvest-packages.py --audit)'
+- name: '@huaweicloud/huaweicloud-sdk-core'
+  registry: npm
+  reason: 'registry metadata names neither the provider''s domain nor its GitHub org: official downgraded (harvest-packages.py --audit)'
+- name: '@huaweicloud/huaweicloud-sdk-iam'
+  registry: npm
+  reason: 'registry metadata names neither the provider''s domain nor its GitHub org: official downgraded (harvest-packages.py --audit)'
+- name: '@huaweicloud/huaweicloud-sdk-secmaster'
+  registry: npm
+  reason: 'registry metadata names neither the provider''s domain nor its GitHub org: official downgraded (harvest-packages.py --audit)'
+- name: '@huaweicloud/huaweicloud-sdk-csms'
+  registry: npm
+  reason: 'registry metadata names neither the provider''s domain nor its GitHub org: official downgraded (harvest-packages.py --audit)'
+note: 'no first-party package: every candidate a model listed was unowned (harvest-packages.py --audit)'
