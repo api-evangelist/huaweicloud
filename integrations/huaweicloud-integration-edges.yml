@@ -1,0 +1,25 @@
+generated: '2026-10-14'
+method: searched
+checked:
+- https://plugins.jetbrains.com/
+marketplace_apps: []
+edges:
+- partner_name: JetBrains Marketplace
+  partner: jetbrains
+  partner_match: aggregator
+  type: marketplace
+  marketplace: jetbrains
+  channel: partner-built
+  relationship: platform-app
+  direction: third-party
+  evidence: https://plugins.jetbrains.com/vendor/HuaweiCloudToolKit
+  listing_count: 3
+  apps:
+  - CodeArts Agent
+  - Huawei Cloud CodeArts Check
+  - Huawei Cloud Toolkit Platform
+  publisher_name: Huawei Cloud ToolKit
+  detected_by: sweep-devtools.py
+  detected: '2026-10-14'
+source:
+- https://plugins.jetbrains.com/
